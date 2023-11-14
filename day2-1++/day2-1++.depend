@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1693043784 source:d:\codblocks\c++\day2-1++\main.cpp
+	<iostream>
+	"student.h"
+
+1693044797 d:\codblocks\c++\day2-1++\include\student.h
+	<iostream>
+
+1693043960 source:d:\codblocks\c++\day2-1++\src\student.cpp
+	"student.h"
+	<iostream>
+	<string>
+

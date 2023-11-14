@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1693481612 source:d:\codblocks\c++\day5++\main.cpp
+	<iostream>
+	"Square.h"
+	"Rectangale.h"
+	"Circle.h"
+	"Picture.h"
+
+1693305650 source:d:\codblocks\c++\day5++\src\picture.cpp
+
+1693481542 d:\codblocks\c++\day5++\include\picture.h
+	<iostream>
+
+1693481313 d:\codblocks\c++\day5++\include\square.h
+	<iostream>
+
+1693472264 d:\codblocks\c++\day5++\include\rectangale.h
+	<iostream>
+
+1693475049 d:\codblocks\c++\day5++\include\circle.h
+	<iostream>
+

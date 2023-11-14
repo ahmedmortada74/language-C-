@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1693484845 source:d:\codblocks\c++\day6++\main.cpp
+	<iostream>
+	"Rectangle.h"
+	"Circle.h"
+	"Square.h"
+	"shape.h"
+
+1693483679 d:\codblocks\c++\day6++\include\square.h
+	"shape.h"
+	<iostream>
+
+1693484375 d:\codblocks\c++\day6++\include\shape.h
+	"Square.h"
+	"Circle.h"
+	"Rectangle.h"
+	<iostream>
+
+1693483762 d:\codblocks\c++\day6++\include\rectangle.h
+	"shape.h"
+	<iostream>
+
+1693484237 d:\codblocks\c++\day6++\include\circle.h
+	"Circle.h"
+	"shape.h"
+	<iostream>
+
